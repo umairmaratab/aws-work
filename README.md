@@ -1,5 +1,5 @@
-# aws-work
-3 tier application was deployed on AWS.
+# 3 Tier Application Using AWS
+3 tier application was deployed on AWS using `EC2` and `VPC` service alongwith `cloudwatch` for monitoring.
 ## It's a pdf file which includs all steps in deploying an application on AWS
 
 # Steps includes:
